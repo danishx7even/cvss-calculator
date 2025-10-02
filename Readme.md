@@ -34,7 +34,7 @@ templates/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/cvss-calculator.git
+    git clone https://github.com/danishx7even/cvss-calculator.git
     cd cvss-calculator
     ```
 
